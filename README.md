@@ -42,6 +42,7 @@ For different input combinations generate the timing diagram
 
 Developed by: S.Nithyasree 
 RegisterNumber:24900149
+`````
 
 module digital10(clk,sin,q);
 input clk;
@@ -57,7 +58,7 @@ q[3] <= q[2];
 end
 endmodule
 
-
+`````
 */
 
 **RTL LOGIC FOR SISO Shift Register**
